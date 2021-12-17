@@ -1,0 +1,51 @@
+html{
+    font-size: 16px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 2;
+    color: black;
+    margin: 0;
+  }
+  
+  h1{
+    font-size: 3.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+    margin: 10px;
+  }
+  
+  a {
+    color: #477ca7;
+  }
+  
+  a:visited{
+    color: #74638f;
+  }
+  
+  #main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+  }
+  
+  img {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 10px auto;
+  }
+  
+  ul {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+  }
+  
+  li {
+    margin: 10px 0;
+    text-align: left;
+  }
